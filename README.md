@@ -1,7 +1,41 @@
-  <h1 id="hi-im-monica-">Hi, I’m Halima 👋🏾 👩🏾‍💻</h1>
+ # 👋 Hi there, I'm Halima Alhatmi!
 
-I'm a computer engineer . 
-Some programming language I enjoy  with C sharp,C language, and java.
-I recently was selected to be trainee as full stack web development🌟.
+Welcome to my GitHub profile! I'm a passionate Computer Engineer from Oman, currently undergoing training at CodeAcademy as a Full Stack Web Development. I enjoy building web applications, testing devices, and working with network systems. I'm always eager to learn new technologies and improve my skills.
+
+---
+
+## 💻 About Me
+
+- 🎓 Computer Engineer
+- 🧑‍💻 Currently in training at **CodeAcademy**
+- 🌍 Based in **Oman**
+- 🔭 Working on: Learning C# and building database-connected applications
+- 🌱 Currently learning: **C#, Entity Framework, HTML, CSS, JavaScript**
+- 🧠 Technical skills: **Web Development, Device Testing, Networking**
+- 📫 Email: [halimaalhatmi19@gmail.com](mailto:halimaalhatmi19@gmail.com)
+- 🔗 LinkedIn: [linkedin.com/in/halima-alhatmi-982109357](https://www.linkedin.com/in/halima-alhatmi-982109357)
+
+---
+
+## 🛠️ Languages and Tools
+
+![Skills](https://skillicons.dev/icons?i=html,css,js,csharp,git,github,vscode)
+
+---
+
+## 📈 GitHub Stats
+
+![Halima's GitHub stats](https://github-readme-stats.vercel.app/api?username=halimaalhatmi&show_icons=true&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=halimaalhatmi&layout=compact&theme=radical)
+
+---
+
+## 🌐 Connect With Me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/halima-alhatmi-982109357)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:halimaalhatmi19@gmail.com)
+
+---
+
 
 
