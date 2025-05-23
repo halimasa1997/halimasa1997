@@ -1,7 +1,5 @@
 
  
- <img src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif" width="500">
- 
  # 👋 Hi there, I'm Halima Alhatmi!
 
 Welcome to my GitHub profile! I'm a passionate Computer Engineer from Oman, currently undergoing training at CodeAcademy as a Full Stack Web Development. I enjoy building web applications, testing devices, and working with network systems. I'm always eager to learn new technologies and improve my skills.
@@ -35,5 +33,6 @@ Welcome to my GitHub profile! I'm a passionate Computer Engineer from Oman, curr
 
 ---
 
+ <img src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif" width="500">
 
 
