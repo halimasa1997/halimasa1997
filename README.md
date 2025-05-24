@@ -9,9 +9,9 @@ Welcome to my GitHub profile! I'm a passionate Computer Engineer from Oman, curr
 ## 💻 About Me
 
 - 🎓 Computer Engineer
-- 🧑‍💻 Currently in training at **CodeAcademy**
+- 🧑‍💻 Currently in training at **CodeAcademy** As **Full Stack Web Developer**
 - 🌍 Based in **Oman**
-- 🔭 Working on: Learning C# and building database-connected applications
+- 🔭 Working on: Learning C# and building database-connected applications.
 - 🌱 Currently learning: **C#, Entity Framework, HTML, CSS, JavaScript**
 - 🧠 Technical skills: **Web Development, Device Testing, Networking**
 - 📫 Email: [halimaalhatmi19@gmail.com](mailto:halimaalhatmi19@gmail.com)
