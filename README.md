@@ -1,38 +1,63 @@
 
- 
- # 👋 Hi there, I'm Halima Alhatmi!
+ <h1 align="center">👋 Hi, I'm Halima Alhatmi</h1>
 
-Welcome to my GitHub profile! I'm a passionate Computer Engineer from Oman, currently undergoing training at CodeAcademy as a Full Stack Web Development. I enjoy building web applications, testing devices, and working with network systems. I'm always eager to learn new technologies and improve my skills.
+<p align="center">
+  💻 Computer Engineer | 🌍 From Oman | 🎓 Full Stack Web Developer Trainee @ <strong>CodeAcademy</strong>  
+</p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Welcome+to+my+GitHub!;I+love+learning+and+building+things;Let’s+code+together!&center=true&color=6a00ff&size=20" />
+</p>
 
 ---
 
-## 💻 About Me
+## 🧠 About Me
 
 - 🎓 Computer Engineer
-- 🧑‍💻 Currently in training at **CodeAcademy** As **Full Stack Web Developer**
-- 🌍 Based in **Oman**
-- 🔭 Working on: Learning C# and building database-connected applications.
-- 🌱 Currently learning: **C#, Entity Framework, HTML, CSS, JavaScript**
-- 🧠 Technical skills: **Web Development, Device Testing, Networking**
-- 📫 Email: [halimaalhatmi19@gmail.com](mailto:halimaalhatmi19@gmail.com)
-- 🔗 LinkedIn: [linkedin.com/in/halima-alhatmi-982109357](https://www.linkedin.com/in/halima-alhatmi-982109357)
+- 🛠️ Full Stack Web Developer trainee @ CodeAcademy
+- 💡 Passionate about **web apps, testing devices, and networks**
+- 🌱 Currently learning: **C#, EF Core, HTML, CSS, JS**
+- 📍 Based in **Oman**
+- 📫 Reach me at: [halimaalhatmi19@gmail.com](mailto:halimaalhatmi19@gmail.com)
 
 ---
 
-## 🛠️ Languages and Tools
+## ⚙️ Tech Stack
 
-![Skills](https://skillicons.dev/icons?i=html,css,js,csharp,git,github,vscode)
-
-
----
-
-## 🌐 Connect With Me
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/halima-alhatmi-982109357)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:halimaalhatmi19@gmail.com)
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,csharp,git,github,vscode&perline=6" />
+</p>
 
 ---
 
- <img src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif" width="500">
+## 📊 GitHub Stats
 
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=halimaalhatmi&show_icons=true&theme=default&hide_border=true" width="47%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=halimaalhatmi&theme=default&hide_border=true" width="47%" />
+</p>
 
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=halimaalhatmi&layout=compact&theme=default&hide_border=true" width="60%" />
+</p>
+
+---
+
+## 🔗 Let's Connect
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/halima-alhatmi-982109357">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin" />
+  </a>
+  <a href="mailto:halimaalhatmi19@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+</p>
+
+---
+
+<div align="center">
+  <img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="300" />
+  <br />
+  <b>✨ “Turning challenges into code.” ✨</b>
+</div>
