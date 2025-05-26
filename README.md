@@ -1,5 +1,7 @@
+<!-- Background container -->
+<div style="background-color: #f5f0fa; padding: 20px; border-radius: 15px;">
 
- <h1 align="center">👋 Hi, I'm Halima Alhatmi</h1>
+<h1 align="center">👋 Hi, I'm Halima Alhatmi</h1>
 
 <p align="center">
   💻 Computer Engineer | 🌍 From Oman | 🎓 Full Stack Web Developer Trainee @ <strong>CodeAcademy</strong>  
@@ -13,12 +15,12 @@
 
 ## 🧠 About Me
 
-- 🎓 Computer Engineer
-- 🛠️ Full Stack Web Developer trainee @ CodeAcademy
-- 💡 Passionate about **web apps, testing devices, and networks**
-- 🌱 Currently learning: **C#, EF Core, HTML, CSS, JS**
-- 📍 Based in **Oman**
-- 📫 Reach me at: [halimaalhatmi19@gmail.com](mailto:halimaalhatmi19@gmail.com)
+- 🎓 Computer Engineer  
+- 🛠️ Full Stack Web Developer trainee @ CodeAcademy  
+- 💡 Passionate about **web apps, testing devices, and networks**  
+- 🌱 Currently learning: **C#, EF Core, HTML, CSS, JS**  
+- 📍 Based in **Oman**  
+- 📫 Reach me at: [halimaalhatmi19@gmail.com](mailto:halimaalhatmi19@gmail.com)  
 
 ---
 
@@ -26,19 +28,6 @@
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=html,css,js,csharp,git,github,vscode&perline=6" />
-</p>
-
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=halimaalhatmi&show_icons=true&theme=default&hide_border=true" width="47%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=halimaalhatmi&theme=default&hide_border=true" width="47%" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=halimaalhatmi&layout=compact&theme=default&hide_border=true" width="60%" />
 </p>
 
 ---
@@ -61,3 +50,6 @@
   <br />
   <b>✨ “Turning challenges into code.” ✨</b>
 </div>
+
+</div>
+
