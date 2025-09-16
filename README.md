@@ -17,7 +17,6 @@
 - 💡 Passionate about **web apps, device testing, and networks**  
 - 🌱 Currently learning: **C#, Entity Framework, HTML, CSS, JavaScript , ASP.NET**  
 - 📍 Based in **Oman**  
-- 📫 Reach me: [halimaalhatmi19@gmail.com](mailto:halimaalhatmi19@gmail.com)  
 
 ---
 
