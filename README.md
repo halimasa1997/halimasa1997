@@ -13,7 +13,8 @@
 ## 🧠 About Me
 
 - 🎓 Computer Engineer  
-- 🛠️ Full Stack Web Developer trainee @ CodeAcademy  
+- 🛠️ Full Stack Web Developer
+- ✨ Web Design and Development Specialist
 - 💡 Passionate about **web apps, device testing, and networks**  
 - 🌱 Currently learning: **C#, Entity Framework, HTML, CSS, JavaScript , ASP.NET**  
 - 📍 Based in **Oman**  
