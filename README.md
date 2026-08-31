@@ -1,7 +1,7 @@
 <h1 align="center">👋 Hi, I'm Halima Alhatmi</h1>
 
 <p align="center">
-  💻 Computer Engineer | 🌍 Oman | 🎓 Full Stack Web Developer Trainee @ <strong>CodeAcademy</strong>  
+  💻 Computer Engineer | 🌍 Oman | 🎓 Full Stack Web Developer</strong>  
 </p>
 
 <p align="center">
