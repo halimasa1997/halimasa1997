@@ -1,4 +1,4 @@
-<h1 align="center">👋 Hi, I'm Halima Alhatmi</h1>
+<h1 align="center">👋 Hi, I'm Halima</h1>
 
 <p align="center">
   💻 Computer Engineer | 🌍 Oman | 🎓 Full Stack Web Developer</strong>  
