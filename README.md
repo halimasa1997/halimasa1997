@@ -12,12 +12,13 @@
 
 ## 🧠 About Me
 
-- 🎓 Computer Engineer  
-- 🛠️ Full Stack Web Developer
+- 🎓 Computer Engineer
+- 🛠️ Full-Stack Web Developer
 - ✨ Web Design and Development Specialist
-- 💡 Passionate about **web apps, device testing, and networks**  
-- 🌱 Currently learning: **C#, Entity Framework, HTML, CSS, JavaScript , ASP.NET**  
-- 📍 Based in **Oman**  
+- 💻 IT Technical Support Specialist
+- 💡 Passionate about **web development, technical support, troubleshooting, device testing, and computer networks**
+- 🌱 Currently learning: **C#, Entity Framework, HTML, CSS, JavaScript, and ASP.NET**
+- 📍 Based in **Oman**
 
 ---
 
